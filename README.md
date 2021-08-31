@@ -1,6 +1,6 @@
 # Universal Flight Search Widget
 
-A flight search POC based on [ReactJS](https://reactjs.org/) + [react-bootstrap] (https://react-bootstrap.github.io/) + [Duffel API](https://duffel.com/docs/api/overview/welcome)
+A flight search POC based on [ReactJS](https://reactjs.org/) + [react-bootstrap](https://react-bootstrap.github.io/) + [Duffel API](https://duffel.com/docs/api/overview/welcome)
 
 [Fork it on GitHub ](https://github.com/tripsimian/react-flight-search-demo-v1/)
 
